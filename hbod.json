@@ -1,7 +1,7 @@
 {
   "name": "HarrisBoden",
   "symbol": "HBOD",
-  "uri": "https://github.com/nikay99/hbod/hbod.json",
+  "uri": "https://github.com/nikay99/hbod/blob/main/hbod.json",
   "seller_fee_basis_points": 500,
   "creators": null
 }
